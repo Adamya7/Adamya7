@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adamya7
-- 👀 I’m interested in Ethical Hacking, AI, Machine Learning, Music, Stage and a lot more...
+- 👀 I’m interested in AI, Machine Learning, Music, Stage and a lot more...
 - 🌱 I’m currently learning C,C##,Python,R and JavaScript along with Computer Networking Concepts
-- 💞️ I’m looking to collaborate on Cyber Security Hackathons and other Minor and Major Projects regarding ML.
+- 💞️ I’m looking to collaborate on Minor and Major Projects regarding ML and DL.
 - 📫 How to reach me: adamya28@gmail.com
 - 📍 Patiala|Anandpur Sahib|Ajmer
 - 🏫 Currently at Thapar Institute: B.E. Student
