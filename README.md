@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adamya7
-- 👀 I’m interested in AI, Machine Learning, Music, Stage and a lot more...
+- 👀 I’m interested in AI, Business Analysis, Machine Learning, Music, Stage and a lot more...
 - 🌱 I’m currently learning C,C##,Python,R and JavaScript along with Computer Networking Concepts
 - 💞️ I’m looking to collaborate on Minor and Major Projects regarding ML and DL.
 - 📫 How to reach me: adamya28@gmail.com
